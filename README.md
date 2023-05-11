@@ -31,3 +31,6 @@ There are 3 modes of operation for this IC:
 Using the PWM signal it is very easy to drive the IC with a microcontroller like [Arduino](https://s.click.aliexpress.com/e/_DFI8pE1 "Arduino"), [Esp32](https://s.click.aliexpress.com/e/_Dem7d77 "Esp32") and [AtTiny85](https://s.click.aliexpress.com/e/_DEYHbJ7 "AtTiny85").
 
 [![](https://content.instructables.com/FBG/HE7S/LDSTRW43/FBGHE7SLDSTRW43.png?auto=webp&frame=1&fit=bounds&md=4ca2944fc81de7a9467b3b567b3fc5e1)](https://www.instructables.com/How-to-Drive-a-Led-With-Arduino-or-Potentiometer-C/)
+
+In the "include" folder you find the working code for Arduino, Esp32 and Attiny85.
+The project is built with Platformio but you can copy and paste the code into the Arduino ide.
